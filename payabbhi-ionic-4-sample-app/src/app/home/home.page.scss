@@ -1,0 +1,21 @@
+ion-content {
+    --background: #3A4667;
+    --color: #ffffff;
+
+    img {
+        display: block;
+        width: 60%;
+        margin: 0px auto;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    ion-card {
+        --background: #4E597C;
+        --color: #ffffff;
+        .box {
+            width: 60%;
+            background: #ffffff;
+            border-radius: 50%;
+        }
+    }
+}

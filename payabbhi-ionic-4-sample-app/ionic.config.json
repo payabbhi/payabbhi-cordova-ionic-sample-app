@@ -1,0 +1,7 @@
+{
+  "name": "payabbhi-ionic-4-sample-app/",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

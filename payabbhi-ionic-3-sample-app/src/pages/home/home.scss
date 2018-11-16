@@ -1,0 +1,43 @@
+page-home {
+    .card-background-page {
+        background: #3A4667;
+        .card{
+            background: #4E597C;
+            color: #ffffff;
+            h1 {
+                color: #ffffff;
+            }
+            .box {
+                width: 70%;
+                display: block;
+                margin: 0px auto;
+                border-radius: 50%;
+                background: #ffffff;
+                margin-top: 25px;
+                margin-bottom: 25px;
+            }
+            .punchline {
+                font-size: 16px;
+                font-weight: 300;
+            }
+            .heading::after {
+                content: '';
+                display: block;
+                width: 50px;
+                height: 5px;
+                background: #fd698c;
+                border-radius: 1.5rem;
+                margin: auto;
+                margin-top: 8px;
+                margin-bottom: 25px;
+            }
+        }
+    }
+    .brand {
+        width: 60%;
+        display: block;
+        margin: 0px auto;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+}
