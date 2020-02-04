@@ -7,9 +7,9 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HomePage implements OnInit{
   private options = {
-    access_id: '<ACCESS_ID>',
-    order_id: '<ORDER_ID>',
-    amount: 100, 
+    access_id: 'id_test_-5SZ3kc-QWCABN681ojo9yQBw0vsH-v_uxmLW0ZHjUk=',
+    order_id: 'order_l1B36xW2oyuXlNc7',
+    amount: 25000, 
     name: 'Merchant Name',
     prefill: {
         name: 'Bruce Wayne',
